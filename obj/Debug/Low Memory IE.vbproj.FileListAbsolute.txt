@@ -1,0 +1,10 @@
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\bin\Debug\Low Memory IE.exe
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\bin\Debug\Low Memory IE.pdb
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\bin\Debug\Low Memory IE.xml
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\ResolveAssemblyReference.cache
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low_Memory_IE.Form1.resources
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low_Memory_IE.Resources.resources
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low Memory IE.vbproj.GenerateResource.Cache
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low Memory IE.exe
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low Memory IE.xml
+D:\SnowReborn\Visual Basic\vb stuffs\Low Memory IE\Low Memory IE\Low Memory IE\obj\Debug\Low Memory IE.pdb
